@@ -1,0 +1,1 @@
+clash.exe -d D:\program\clash-windows -f $PSScriptRoot\subscribe.yaml
