@@ -1,1 +1,1 @@
-clash.exe -d D:\program\clash-windows -f $PSScriptRoot\subscribe.yaml
+clash.exe -d $env:SCOOP/persist/clash -f $PSScriptRoot\subscribe.yaml
